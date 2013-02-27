@@ -1,4 +1,12 @@
 
+# json-table-schema, an implementation of the JSON Table Schema format,
+# by Martin Keegan
+#
+# Copyright (C) 2013  Martin Keegan
+#
+# This programme is free software; you may redistribute and/or modify
+# it under the terms of the Apache Software Licence v2.0
+
 import json
 
 class FormatError(Exception): pass
