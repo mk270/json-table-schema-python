@@ -8,6 +8,7 @@
 # it under the terms of the Apache Software Licence v2.0
 
 import json
+unicode = type(u'')  # PY3 compatibility
 
 class FormatError(Exception): pass
 class DuplicateFieldId(Exception): pass

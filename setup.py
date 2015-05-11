@@ -7,7 +7,7 @@ setup(
 	name = "json-table-schema",
 	author = "Martin Keegan",
 	author_email = "martin.keegan@okfn.org",
-	version = "0.1",
+	version = "0.2",
 	license = "Apache Licence v2.0",
 	url = "",
 	download_url = "",
