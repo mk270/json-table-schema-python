@@ -1,6 +1,8 @@
 JSON Table Schema
 =================
 
-A Python library for handling JSON Table Schema files.
+This repo is no longer maintained. 
 
-See http://www.dataprotocols.org/en/latest/json-table-schema.html for details of the format
+The last version of this codebase is on [PyPI as v0.2.1 here](https://pypi.python.org/pypi/json-table-schema/0.2.1).
+
+Development of JSON Table Schema for Python has moved to [Open Knowledge here](https://github.com/okfn/json-table-schema-py) and the [new issue tracker is located here](https://github.com/okfn/json-table-schema-py/issues)
